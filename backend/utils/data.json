@@ -1,0 +1,224 @@
+[
+    {
+        "name": "Dr. Pavan Sonar",
+        "address": "C/O Bellevue Multispeciality Hospital, Link Road, Andheri West, Mumbai - 400053, Next to Audi Showroom",
+        "contact": [
+            7947171159
+        ],
+        "Geopoint": {
+            "lat": 19.138905229419734,
+            "long": 72.82958042598274
+        }
+    },
+    {
+        "name": "Dr. Kiran's Mind Center & Polyclinic",
+        "address": "B 102, Giriraj Heights, Vrajbhoomi Complex, Link Road, Kandivali West, Mumbai - 400067, Above Axis Bank",
+        "contact": [
+            7947174772
+        ],
+        "Geopoint": {
+            "lat": 19.204761176702025,
+            "long": 72.82958042598274
+        }
+    },
+    {
+        "name": "Dr. Bharat R Shah",
+        "address": "791, Lilavati Hospital, Bandra West, Mumbai - 400050, Near Bandra Reclamation",
+        "contact": [
+            7947173129
+        ],
+        "Geopoint": {
+            "lat": 19.204761176702025,
+            "long": 72.82958042598274
+        }
+    },
+    {
+        "name": "Dr. Chandni Goel",
+        "address": "Shree Sai Hospital, Gokul Nagri 1, Off 90 Feet Road, Kandivali East, Mumbai - 400101, Near Asha Nagar, Thakur Complex",
+        "contact": [
+            9619012932,
+            9324077628
+        ],
+        "Geopoint": {
+            "lat": 19.213888473636924,
+            "long": 72.86710662601894
+        }
+    },
+    {
+        "name": "Dr. Navoneela Bardhan",
+        "address": "Doctor Polyclinic, 108, Neelam Building, R G Thadani Marg, Worli, Mumbai - 400018, Near Atithee Hotel and Cafe Coffee Day",
+        "contact": [
+            7947183417
+        ],
+        "Geopoint": {
+            "lat": 19.001957826932514,
+            "long": 72.8143451683455
+        }
+    },
+    {
+        "name": "Dr. Yusuf Matcheswalla",
+        "address": "6-10 Empress Court, Dr E Moses Rd, Worli Naka, Mumbai, Worli Naka-Worli, Mumbai - 400018, Next to Furniturewala Showroom",
+        "contact": [
+            9820081884,
+            9821119603
+        ],
+        "Geopoint": {
+            "lat": 18.995429108806118,
+            "long": 72.81938599140429
+        }
+    },
+    {
+        "name": "Dr. Pavan Sonar",
+        "address": "C/O Riddhivinayak Hospital, S V Road, Malad West, Mumbai - 400064, Near N L School",
+        "contact": [
+            7947174765
+        ],
+        "Geopoint": {
+            "lat": 19.19454223227266,
+            "long": 72.84766079718354
+        }
+    },
+    {
+        "name": "Manas Psychological Health Centre & Nursing Home",
+        "address": "Gautameshwar Dham, Dr Rajendra Prasad Road, Dombivli East, Thane - 421201, Dattanagar",
+        "contact": [
+            7947174496
+        ],
+        "Geopoint": {
+            "lat": 19.21411256134676,
+            "long": 73.08707223028517
+        }
+    },
+    {
+        "name": "Swaminarayan Clinic & Nursing Home",
+        "address": "B-104 /106, Priya Apartment, Main Kasturba Road, Borivali East, Mumbai - 400066, Opposite Vyas Chemist",
+        "contact": [
+            7947169911
+        ],
+        "Geopoint": {
+            "lat": 19.229510681431456,
+            "long": 72.86048089219318
+        }
+    },
+    {
+        "name": "Bandra Care Clinic",
+        "address": "Jain Chambers, SV Road, Bandra West, Mumbai - 400050, Near Lucky Hotel",
+        "contact": [
+            7947271291
+        ],
+        "Geopoint": {
+            "lat": 19.054763225745685,
+            "long": 72.83777784582476
+        }
+    },
+    {
+        "name": "Mpower - The Centre (Mumbai)",
+        "address": "1, 155, 15, N S Patkar Marg, Babulnath, Khareghat Colony, Tardeo, Mumbai, Maharashtra 400007",
+        "contact": [
+            "022-23828133"
+        ],
+        "Geopoint": {
+            "lat": 18.962252792548302,
+            "long": 72.80859627019045
+        }
+    },
+    {
+        "name": "Dr. Priyanka Raut's Kimaya Mind Clinic",
+        "address": "B-8, Ground Floor, Nirmala Niwas, 4/10, Aai Mai Merwanji St, near Laal Maidan, Parel, Mumbai, Maharashtra 400012",
+        "contact": [
+            "08169429044"
+        ],
+        "Geopoint": {
+            "lat": 19.00185002102199,
+            "long": 72.83958710271759
+        }
+    },
+    {
+        "name": "Dr Matcheswalla",
+        "address": "Dr Matcheswalla's Happy Minds- Bai Jer Baug ( Parsi Colony), Office no 5, 1st floor, Dr Baba Saheb Ambedkar Rd, Byculla East, Mumbai, 400027",
+        "contact": [
+            "09820081884"
+        ],
+        "Geopoint": {
+            "lat": 18.9824525219068,
+            "long": 72.83826071252058
+        }
+    },
+    {
+        "name": "Dr. Kavita Sagarkar’s Beautiful Mind Clinic",
+        "address": "404, Morya Classic, Lane Opp. Infinity Mall,, Off New Link Road, Next to Dheeraj Gaurav Heights 1,, Andheri(West), Mumbai, Maharashtra 400053",
+        "contact": [
+            "09322403001"
+        ],
+        "Geopoint": {
+            "lat": 19.141611573858388,
+            "long": 72.83388642479864
+        }
+    },
+    {
+        "name": "Dr. Anjali Chhabria",
+        "address": "302, Daffodils, No. 49, Beside Gazebo House, Off Gulmohar Road, JVPD Scheme, Mumbai, Maharashtra 400049",
+        "contact": [
+            "022-26289792"
+        ],
+        "Geopoint": {
+            "lat": 19.114971487350576,
+            "long": 72.83661553323329
+        }
+    },
+    {
+        "name": "Dr. Deepti Kukreja",
+        "address": "Mangal Meeth Cooperative Housing Society, 9th, Gulmohar Road, JVPD Scheme, Mumbai, Maharashtra 400049",
+        "contact": [
+            "09560056635"
+        ],
+        "Geopoint": {
+            "lat": 19.113718783906773,
+            "long": 72.8319647260174
+        }
+    },
+    {
+        "name": "Dr Hardik C Sheth",
+        "address": "Namaha Hospital, Naman Shopping Plaza ,Adjacent to the East West Flyover, SV Rd, Kandivali West, Mumbai, Maharashtra 400067",
+        "contact": [
+            "07208477594"
+        ],
+        "Geopoint": {
+            "lat": 19.199018731809346,
+            "long": 72.84819285510817
+        }
+    },
+    {
+        "name": "Dr. Shyam Mithiya's Clinic",
+        "address": "308, 3rd floor, A-1 Harekrishna Building, Near Telephone Exchange, L.B.S., Road,, Mumbai, Maharashtra 400086",
+        "contact": [
+            "07506131833"
+        ],
+        "Geopoint": {
+            "lat": 19.08826166562094,
+            "long": 72.90502042601699
+        }
+    },
+    {
+        "name": "Dr Parijat Roy, MBBS, MD Psychiatry",
+        "address": "Shankar Niwas, 5A, Dadasaheb Rege Marg, Dadar West, Shivaji Park, Mumbai, Maharashtra 400028",
+        "contact": [
+            "09006748390"
+        ],
+        "Geopoint": {
+            "lat": 19.025107799657263,
+            "long": 72.83953498184053
+        }
+    },
+    {
+        "name": "Dr Milan Balakrishnan",
+        "address": "Room No, 129 B, Bombay Hospital Ave, New Marine Lines, Marine Lines, Mumbai, Maharashtra 400020",
+        "contact": [
+            "09969556976"
+        ],
+        "Geopoint": {
+            "lat": 18.94167370222387,
+            "long": 72.82881757515219
+        }
+    }
+]
