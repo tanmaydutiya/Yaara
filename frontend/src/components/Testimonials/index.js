@@ -1,9 +1,3 @@
-import testimonial1 from "../../assets/img/testimonials/testimonials-1.jpg";
-import testimonial2 from "../../assets/img/testimonials/testimonials-2.jpg";
-import testimonial3 from "../../assets/img/testimonials/testimonials-3.jpg";
-import testimonial4 from "../../assets/img/testimonials/testimonials-4.jpg";
-import testimonial5 from "../../assets/img/testimonials/testimonials-5.jpg";
-
 export default function Testimonials() {
   return (
     <section id="testimonials" className="testimonials">

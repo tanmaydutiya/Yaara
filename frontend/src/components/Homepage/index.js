@@ -1,12 +1,9 @@
 import Hero from "../Hero";
 import WhyUs from "../WhyUs";
 import About from "../About";
-import Counts from "../Counts";
 import Appointment from "../Appointment";
 import Doctors from "../Doctors";
-import FAQs from "../FAQs";
 import Testimonials from "../Testimonials";
-import Gallery from "../Gallery";
 import { useContext, useEffect, useState } from "react";
 import { UserContext } from "../../store";
 
